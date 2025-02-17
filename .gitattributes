@@ -1,0 +1,2 @@
+*.iso filter=lfs diff=lfs merge=lfs -text
+images/android-x86_64-9.0-r2-k49.iso filter=lfs diff=lfs merge=lfs -text
